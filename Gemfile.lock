@@ -26,6 +26,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   activesupport
@@ -34,7 +35,7 @@ DEPENDENCIES
   pry
 
 RUBY VERSION
-   ruby 2.3.2p217
+   ruby 2.6.6p146
 
 BUNDLED WITH
-   1.13.6
+   2.1.4
